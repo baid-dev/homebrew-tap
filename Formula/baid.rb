@@ -2,7 +2,7 @@ class Baid < Formula
   desc "CLI for managing AI agent skills"
   homepage "https://baid.dev"
   url "https://rubygems.org/downloads/baid-0.1.0.gem"
-  sha256 "<sha256 of the .gem file>"  # shasum -a 256 baid-0.1.0.gem
+  sha256 "3fe6a785e79d1de43f1a7fef10006643615939ce099879ab649a6ce5d2574038"
   license "MIT"
 
   depends_on "ruby"
